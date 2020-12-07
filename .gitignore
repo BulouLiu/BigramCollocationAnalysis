@@ -1,2 +1,5 @@
-./output
-./results
+output
+results
+.idea
+.DS_Store
+_pycache_
